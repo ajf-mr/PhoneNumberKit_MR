@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "PhoneNumberKit",
+    name: "PhoneNumberKit_MR",
     platforms: [
         .iOS(.v12), .macOS(.v10_13), .tvOS(.v12), .watchOS(.v4)
     ],
